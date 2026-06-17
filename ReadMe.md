@@ -5,6 +5,9 @@
 [Release](https://github.com/JetNpp/LocationNavigate/tree/master/bin "Release")
 
 ## change log
+### 0.4.7.8
+#### 2026-06-17
+- +. fix occasional crash when close
 
 ### 0.4.7.7.1
 #### 2021-07-03
